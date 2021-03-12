@@ -12,3 +12,5 @@ output:
     theme: flatly
 
 
+
+theme: jekyll-theme-cayman
