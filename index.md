@@ -1,6 +1,6 @@
-**Bold** Applications are now being accepted for Summer 2021. The deadline to apply is April 23rd, 2021.
+# **Applications are now being accepted for Summer 2021. The deadline to apply is April 23rd, 2021.**
 
-<h1>Program Description</h1>
+## Program Description
 
 Students will be matched with one of over 25 neuroscience laboratories at NYU Langone Health based on the student’s interest and mentor availability. Students will engage in basic neuroscience research by performing hypothesis-driven experiments, learning the use of state-of-the-art lab equipment, interpreting data, and analyzing results under the guidance of their summer mentor. They will be able to discuss primary scientific literature and develop scientific communication skills, both written and oral. They will have one-on-one mentorship, and opportunities to interact with graduate students and postdocs as well as faculty to receive additional guidance and broaden their scientific network. Students are also encouraged to participate in social activities including a picnic in Central Park, weekly gatherings over tea (‘tea time’), journal clubs with other participants, and outreach opportunities with the broader Neuroscience Institute community.
 
