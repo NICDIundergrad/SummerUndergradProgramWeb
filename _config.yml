@@ -1,3 +1,14 @@
-theme: jekyll-theme-cayman
+name: "T"
+output_dir: "."
+navbar:
+  title: "T"
+  left:
+    - text: "Pilot Community Recruitment"
+      href: index.md
+      
+output:
+  html_document:
+    code_folding: hide
+    theme: jekyll-theme-cayman
 
 
