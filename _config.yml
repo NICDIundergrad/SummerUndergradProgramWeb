@@ -9,6 +9,6 @@ navbar:
 output:
   html_document:
     code_folding: hide
-    theme: jekyll-theme-cayman
+    theme: flatly
 
 
