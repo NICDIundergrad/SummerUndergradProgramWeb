@@ -68,3 +68,7 @@ Unfortunately, we will only be considering students that will be able to commit 
 
 **Where can I find information on the Faculty and labs that are part of the Neuroscience Institute?**
 You can find information on the Faculty members at the Neuroscience Institute here: [link](https://med.nyu.edu/departments-institutes/neuroscience/faculty)  
+
+## Contact Us
+
+For additional inquiries regarding the program please reach out to us at email@@@
