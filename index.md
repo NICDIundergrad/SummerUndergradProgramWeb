@@ -28,4 +28,43 @@ Summer interns accepted into the program will receive $15 an hour at 35 hours pe
 The applications are due on April 23rd by 11:59 pm EST. Notifications of acceptance into the summer internship will be sent by May 14th. The on-boarding process will start soon thereafter. The program will run from June 7th to August 13th. 
 
 Application Portal: [link](https://nyumc.qualtrics.com/jfe/form/SV_cZml4B3qOariMN8)
+
 Reference Letter Protal: [link](https://nyumc.qualtrics.com/jfe/form/SV_3LdjR0HJjNrPuOW)
+
+## FAQ
+
+**When is the application due?**
+The application is due on April 23rd by 11:59 pm EST.
+
+**Will this program provide housing or a meal plan?**
+The program will provide public transit reimbursements and $15 hourly pay to those who are accepted, but housing or meals will not be covered. The stipend is intended to provide financial support during the 10-week period for the student to focus on research activities. 
+
+**Can I apply if I am not a U.S. citizen?**
+Yes, eligible non-citizens include permanent residents, refugees, asylees, students who hold DACA status, students who have been long-term undocumented students, and students who have been long-term Green Card applicants but have not yet achieved Legal Permanent Resident (Green Card) status. 
+
+**What documents do I need to submit my application?**
+Unofficial transcript, resume/CV, personal statement, diversity statement, 1-2 reference letter(s).
+
+**How should I send my application documents?**
+Applicants should submit all materials as pdf documents through the online application portal. Recommenders should submit letters of reference by the deadline (April 23rd 11:59pm EST) to examplesummerprogram@gmail.com. 
+
+**Who can send in my letter of recommendation?**
+Professors, teacher’s assistants, or anyone who is/was a mentor in an academic setting.
+
+**When are applicants typically notified of their acceptance into the program?**
+Students should expect to hear back by May 14th, 2021.
+
+**Will I be able to receive course credit for this?**
+No, as this will be a paid research experience. 
+
+**I do not attend NYU, can I apply to the summer program?**
+Yes, students from other colleges and universities can apply to the program. We encourage students from non-research intensive institutions and from historically underrepresented groups to apply. 
+
+**I attend a College/University that is outside the USA or its associate states, can I apply?**
+Unfortunately, the summer internship program is only for students currently attending US institutions. 
+
+**I am not able to attend the whole 10-week program, should I apply?**
+Unfortunately, we will only be considering students that will be able to commit to the 10-week summer internship period. 
+
+**Where can I find information on the Faculty and labs that are part of the Neuroscience Institute?**
+You can find information on the Faculty members at the Neuroscience Institute here: [link](https://med.nyu.edu/departments-institutes/neuroscience/faculty)  
