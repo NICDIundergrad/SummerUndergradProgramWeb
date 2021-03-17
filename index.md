@@ -23,14 +23,14 @@ Summer interns accepted into the program will receive $15 an hour at 35 hours pe
 
 * * *
 
-# [COVID-19 Statement](#covid)
+# [COVID-19 Statement](#covid19)
 
 - As per (date we put announcement on the website), research at NYU is continuing and participants will be able to partake in neuroscience research during the summer of 2021. The COVID-19 situation is being closely monitored and we will provide relevant updates in the event of a change.
 - All summer interns will be required to follow NYU Langone Health guidelines regarding COVID-19 testing and prevention. Guidelines include, but are not limited to, COVID-testing, self-isolation, mask-wearing, social-distancing, room capacity limits, and use of face-shields during training. 
 
 * * *
 
-# [Apply Now!](#applynow)
+# [Apply Now!](#apply)
 
 The applications are due on April 23rd by 11:59 pm EST. Notifications of acceptance into the summer internship will be sent by May 14th. The on-boarding process will start soon thereafter. The program will run from June 7th to August 13th. 
 
