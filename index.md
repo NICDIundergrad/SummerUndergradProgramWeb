@@ -15,7 +15,7 @@ Summer interns accepted into the program will receive $15 an hour at 35 hours pe
 
 * * *
 
-# Funding
+# [Funding](#funding)
 
 - Summer interns accepted into the program will receive $15 an hour at 35 hours per week for 10 weeks.
 - Interns will also be provided with a subsidized subway/bus card for daily travel. 
@@ -23,14 +23,14 @@ Summer interns accepted into the program will receive $15 an hour at 35 hours pe
 
 * * *
 
-# COVID-19 Statement
+# [COVID-19 Statement](#covid)
 
 - As per (date we put announcement on the website), research at NYU is continuing and participants will be able to partake in neuroscience research during the summer of 2021. The COVID-19 situation is being closely monitored and we will provide relevant updates in the event of a change.
 - All summer interns will be required to follow NYU Langone Health guidelines regarding COVID-19 testing and prevention. Guidelines include, but are not limited to, COVID-testing, self-isolation, mask-wearing, social-distancing, room capacity limits, and use of face-shields during training. 
 
 * * *
 
-# Apply Now!
+# [Apply Now!](#applynow)
 
 The applications are due on April 23rd by 11:59 pm EST. Notifications of acceptance into the summer internship will be sent by May 14th. The on-boarding process will start soon thereafter. The program will run from June 7th to August 13th. 
 
@@ -40,75 +40,57 @@ The applications are due on April 23rd by 11:59 pm EST. Notifications of accepta
 
 * * *
 
-# Header 6
+# [FAQ](#faq)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+**When is the application due?**
 
-### There's a horizontal rule below this.
+The application is due on April 23rd by 11:59 pm EST. 
 
-* * *
+**Will this program provide housing or a meal plan?**
 
-### Here is an unordered list:
+The program will provide public transit reimbursements and $15 hourly pay to those who are accepted, but housing or meals will not be covered. The stipend is intended to provide financial support during the 10-week period for the student to focus on research activities.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+**Can I apply if I am not a U.S. citizen?**
 
-### And an ordered list:
+Yes, eligible non-citizens include permanent residents, refugees, asylees, students who hold DACA status, students who have been long-term undocumented students, and students who have been long-term Green Card applicants but have not yet achieved Legal Permanent Resident (Green Card) status. 
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+**What documents do I need to submit my application?**
 
-### And a nested list:
+Unofficial transcript, resume/CV, personal statement, diversity statement, 1-2 reference letter(s). 
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+**How should I send my application documents?**
 
-### Small image
+Applicants should submit all materials as pdf documents through the online application portal. Recommenders should submit letters of reference by the deadline (April 23rd 11:59pm EST) through the reference letter portal.
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+**Who can send in my letter of recommendation?**
 
-### Large image
+Professors, teacher’s assistants, or anyone who is/was a mentor in an academic setting. 
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+**When are applicants typically notified of their acceptance into the program?**
 
+Students should expect to hear back by May 14th, 2021.
 
-### Definition lists can be used with HTML syntax.
+**Will I be able to receive course credit for this?**
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+No, as this will be a paid research experience.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+**I do not attend NYU, can I apply to the summer program?**
 
-```
-The final element.
-```
+Yes, students from other colleges and universities can apply to the program. We encourage students from non-research intensive institutions and from historically underrepresented groups to apply. 
+
+**I attend a College/University that is outside the USA or its associate states, can I apply?**
+
+Unfortunately, the summer internship program is only for students currently attending US institutions. 
+
+**I am not able to attend the whole 10-week program, should I apply?**
+
+Unfortunately, we will only be considering students that will be able to commit to the 10-week summer internship period.
+
+**Where can I find information on the Faculty and labs that are part of the Neuroscience Institute?**
+
+You can find information on the Faculty members at the Neuroscience Institute here: https://med.nyu.edu/departments-institutes/neuroscience/faculty .
+
+# [Contact Us](#contact)
+
+For additional inquiries regarding the program please reach out to us at email@@@
+
