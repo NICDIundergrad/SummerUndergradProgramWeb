@@ -1,4 +1,4 @@
-# [Summer Undergraduate Program for Neuroscience Training](home)
+# Summer Undergraduate Program for Neuroscience Training
 
 # [Program Description](#program-description)
 
