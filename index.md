@@ -7,7 +7,7 @@ Summer interns accepted into the program will receive $15 an hour at 35 hours pe
 
 * * *
 
-# Eligibility
+# [Eligibility](#eligibility)
 
 - Applicants must be undergraduate students enrolled full-time at a U.S. college or university. Students who are expected to graduate before the start of the program are not eligible.
 - Students from all groups that are underrepresented in science are encouraged to apply. Underrepresented groups in STEM include Black/African American, Hispanic/Latinx, American Indian, Native Hawaiian/Pacific Islander, and Alaska Native. In addition, first-generation college students, students with a documented disability, and students from economically-disadvantaged backgrounds are also encouraged to apply. 
