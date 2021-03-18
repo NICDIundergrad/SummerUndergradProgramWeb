@@ -30,7 +30,7 @@ Summer interns accepted into the program will receive $15 an hour at 35 hours pe
 
 * * *
 
-# [Apply Now!](#apply)
+# [Apply!](#apply)
 
 The applications are due on April 23rd by 11:59 pm EST. Notifications of acceptance into the summer internship will be sent by May 14th. The on-boarding process will start soon thereafter. The program will run from June 7th to August 13th. 
 
