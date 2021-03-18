@@ -1,4 +1,4 @@
-# Neuroscience Institute Faculty
+# [Neuroscience Institute Faculty](#neuroscience-institute-faculty)
 
 Below are the labs participating in the 2021 Summer Undergraduate Program for Neuroscience Training. If you find a specific lab(s) that you want to work in, you can indicate that in your personal statement. 
 
