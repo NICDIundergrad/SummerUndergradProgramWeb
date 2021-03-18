@@ -50,4 +50,16 @@ body {
   <a href="{{site.baseurl}}/faculty/">Faculty</a> 
 </div>
 </body>
+  <script>
+	$(document).ready(function() {
+   		$(window).scroll(function() {
+       		var scrollVal = $(this).scrollTop();
+        	if ( scrollVal > 150) {
+            	$('#subnav').css({'position':'fixed','top' :'0px'});
+        	} else {
+            	$('#subnav').css({'position':'static','top':'auto'});
+        	}
+    	});
+ 	});
+ 	</script>
 </html>
