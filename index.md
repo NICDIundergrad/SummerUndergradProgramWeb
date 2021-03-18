@@ -5,6 +5,8 @@ Students will be matched with one of over 25 neuroscience laboratories at NYU La
 
 Summer interns accepted into the program will receive $15 an hour at 35 hours per week for a total of 10 weeks. Interns will also be provided with a subsidized subway/bus card for daily travel. Students will be expected to work full-time in the laboratory, to participate both in lab meetings and weekly meetings with their mentor, and to attend academic seminars. At the end of the program, students will be expected to give an oral presentation of their project and submit a 5-page research summary including a research abstract, and a one-page personal statement about their experience at NYU. 
 
+![slides](/_slides/my-pics1.md)
+
 * * *
 
 # [Eligibility](#eligibility)
