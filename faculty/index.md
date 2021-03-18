@@ -1,6 +1,6 @@
 # Neuroscience Institute Faculty
 
-Below are the labs participating in the 2021 Summer Undergraduate Program for Neuroscience Training. If you find a specific lab(s) that you want to work in, you can indicate that in your personal statement. 
+Below are the labs participating in the 2021 Undergraduate Summer Research Training in Neuroscience program. If you find a specific lab(s) that you want to work in, you can indicate that in your personal statement. 
 
 ## Tritsch Lab
 
