@@ -92,5 +92,5 @@ You can find information on the Faculty members at the Neuroscience Institute he
 
 # [Contact Us](#contact)
 
-For additional inquiries regarding the program please reach out to us at email@@@
+For additional inquiries regarding the program please reach out to us at nyu.nicdi@gmail.com
 
